@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there! I'm Charles 👋
+Nice to see you here
 
+
+I like to learn more about the bible and know more about how to live what the grattest dev ever(God) want to of me.
+
+- I'm a GrowDever
 <!--
 **CharlesAugustus/CharlesAugustus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
