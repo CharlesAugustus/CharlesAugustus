@@ -8,11 +8,10 @@
 Nice to see you here
 
 
-
+Aficcionado por tecnologia, especialmente por aquelas que reescrevem histórias.
 Apaixonado por teologia, missões e todos os assuntos que tangem ao paizão <3
-Aficcionado por tecnologia no geral, especialmente por aquelas acessíveis ao público em algum nível.
 
-
+- Cursando Análise e Desenvolvimento de sistemas - Unicesumar
 - Produtor musical pela Universidade Estácio;
 - Teólogo pela UniCesumar com Hernandes Dias Lopes;
 - Técnico em informática;
@@ -31,7 +30,6 @@ Hoje, apaixonado por programação, sigo codando e buscando melhorar como DEV.
 <hr>
 <br>
 
-GrowDever ♥ 
 <p> Loading: FrontEnd Developer </p>
 HTML, CSS e JavaScript
 
