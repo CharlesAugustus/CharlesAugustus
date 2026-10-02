@@ -1,6 +1,6 @@
 <head>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952obfzp58580mlyiopgrvva3z1u2jxmf0oqg02yluk&rid=200w.gif&ct=g">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*dxbvVHJkUh5HagZ7HI0nFw.gif">
 </a>
 </head>
 
